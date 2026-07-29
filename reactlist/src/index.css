@@ -1,0 +1,12 @@
+/* RESET CSS*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1d2135;
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+}
