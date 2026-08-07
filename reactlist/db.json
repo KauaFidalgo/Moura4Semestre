@@ -1,0 +1,13 @@
+{
+  "taskpoint": [
+    {
+      "descricao": "senhor mylanbi nakostura",
+      "id": "8s6R9hyxXjY"
+    },
+    {
+      "descricao": "67",
+      "id": "8sypHFFbK50"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
